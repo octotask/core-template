@@ -1,6 +1,6 @@
-# StackBlitz SDK
+# OctoTask SDK
 
-You can find the StackBlitz SDK here:
+You can find the OctoTask SDK here:
 
 - Package: [@stackblitz/sdk](https://www.npmjs.com/package/@stackblitz/sdk)
 - Repository: [stackblitz/sdk](https://github.com/stackblitz/sdk)

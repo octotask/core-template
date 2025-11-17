@@ -1,4 +1,4 @@
-# StackBlitz - Turbo CDN
+# OctoTask - Turbo CDN
 
 Express.js routes used for hydrating client-side dependencies and type
 definitions on StackBlitz.

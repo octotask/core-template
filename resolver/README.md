@@ -13,7 +13,7 @@ to be resolved. You may need a promise polyfill for the browser, and an npm
 registry with CORS enabled.
 
 ```javascript
-import { Resolver, NpmHttpRegistry } from '@stackblitz/turbo-resolver';
+import { Resolver, NpmHttpRegistry } from '@octotask/resolver';
 
 function resolve(dependencies){
   // const resolver = new Resolver(); // For server-side usage, uses https://registry.npmjs.org which doesn't have CORS enabled
