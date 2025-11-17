@@ -1,4 +1,4 @@
-# Stackblitz - Turbo Resolver
+# OctoTask - Resolver
 
 Universal NPM dependency resolver.
 

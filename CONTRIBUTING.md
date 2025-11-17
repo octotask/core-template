@@ -221,7 +221,7 @@ Include:
 - **Questions**: Open a GitHub Discussion
 - **Bugs**: Open a GitHub Issue with [bug] label
 - **Features**: Open a GitHub Issue with [feature] label
-- **Discord**: Join our [Discord community](https://discord.gg/stackblitz)
+- **Discord**: Join our [Discord community](https://discord.gg/khulnasoft)
 
 ## Release Process
 

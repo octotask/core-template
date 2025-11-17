@@ -1,7 +1,7 @@
-# OctoTask - Turbo CDN
+# OctoTask - CDN
 
 Express.js routes used for hydrating client-side dependencies and type
-definitions on StackBlitz.
+definitions on OctoTask.
 
 These routes trace and download CommonJS entry points and type definitions for
 npm dependencies and returns them with a directory listing. Any files missed by

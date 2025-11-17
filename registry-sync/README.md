@@ -1,4 +1,4 @@
-# Stackblitz Turbo Registry Sync
+# Octotask Registry Sync
 
 Synchronize NPM data in realtime from the [NPM Replicate](https://replicate.npmjs.com/)
 endpoint into [redis](https://redis.io/) for an in-cache of the NPM dataset.

@@ -175,7 +175,7 @@ cat CONTRIBUTING.md
 - **GitHub**: [OctoTask/core](https://github.com/OctoTask/core)
 - **Issues**: [Create Issue](https://github.com/OctoTask/core/issues/new)
 - **Discussions**: [Join Discussion](https://github.com/OctoTask/core/discussions)
-- **Discord**: [Join Community](https://discord.gg/stackblitz)
+- **Discord**: [Join Community](https://discord.gg/khulnasoft)
 
 ---
 

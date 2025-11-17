@@ -1,9 +1,9 @@
 # OctoTask Documentation
 
-__The OctoTask docs have moved to: [developer.stackblitz.com](https://developer.stackblitz.com/)__
+__The OctoTask docs have moved to: [developer.khulnasoft.com](https://developer.khulnasoft.com/)__
 
 Here are a few topics we cover:
 
-- [What is StackBlitz?](https://developer.stackblitz.com/guides/user-guide/what-is-stackblitz)
-- [How to embed OctoTask projects](https://developer.stackblitz.com/guides/integration/embedding)
-- [Using our JavaScript SDK](https://developer.stackblitz.com/platform/api/javascript-sdk)
+- [What is OctoTask?](https://developer.khulnasoft.com/guides/user-guide/what-is-octotask)
+- [How to embed OctoTask projects](https://developer.khulnasoft.com/guides/integration/embedding)
+- [Using our JavaScript SDK](https://developer.khulnasoft.com/platform/api/javascript-sdk)

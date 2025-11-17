@@ -5,5 +5,5 @@
  * without understanding the impact on the build pipeline.
  * 
  * Legacy build artifact - consider migrating to modern build tools
- * like Webpack, Vite, or Turbo in future versions.
+ * like Webpack, Vite in future versions.
  */
